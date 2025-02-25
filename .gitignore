@@ -12,3 +12,5 @@ dist/
 build/
 *.egg-info/
 k8s-secrets.yaml
+.terraform/
+.terraform.lock.hcl
